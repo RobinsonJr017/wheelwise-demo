@@ -1,0 +1,28 @@
+@import url(https://db.onlinewebfonts.com/c/a082fd3df68a0b54e0d4d794bc38d268?family=Blender+Pro+Bold);
+
+
+cp-button {
+  -webkit-text-size-adjust: 100%;
+  box-sizing: inherit;
+  background-color: initial;
+  font-family: BlenderProBold,sans-serif;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 110%;
+  align-items: center;
+  border-style: solid;
+  border-width: 0 20px;
+  cursor: pointer;
+  display: inline-flex;
+  height: 48px;
+  justify-content: center;
+  min-width: 232px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  user-select: none;
+  border-image: url(/build/images/cp-btn-yellow-fd1ca428.svg) 0 20 fill;
+  color: #fcee0a;
+}
+
